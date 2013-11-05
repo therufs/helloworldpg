@@ -1,0 +1,22 @@
+/home/osi/hello/platforms/android/bin/classes.dex : \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$5.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/home/osi/hello/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/home/osi/hello/platforms/android/bin/classes/com/example/hello/BuildConfig.class \
+/home/osi/hello/platforms/android/bin/classes/com/example/hello/HelloWorld.class \
+/home/osi/hello/platforms/android/bin/classes/com/example/hello/R.class \
+/home/osi/hello/platforms/android/bin/classes/com/example/hello/R$attr.class \
+/home/osi/hello/platforms/android/bin/classes/com/example/hello/R$drawable.class \
+/home/osi/hello/platforms/android/bin/classes/com/example/hello/R$xml.class \
+/home/osi/hello/platforms/android/bin/classes/com/example/hello/R$string.class \
+/home/osi/hello/platforms/android/bin/dexedLibs/cordova-3.1.0-d37e0f6d24dfbe55a97d34106608b357.jar \
