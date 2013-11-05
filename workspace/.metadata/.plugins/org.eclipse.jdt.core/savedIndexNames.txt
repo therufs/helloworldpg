@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/osi/hello/workspace/.metadata/.plugins/org.eclipse.jdt.core
+3927879410.index
